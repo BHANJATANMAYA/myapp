@@ -80,16 +80,6 @@ myapp/
 │-- pubspec.yaml          # Dependencies & assets
 ```
 
----
-
-## ✅ Roadmap
-
-* [ ] Add hourly & weekly forecast
-* [ ] Offline support with cached data
-* [ ] More weather metrics (air quality, UV index, etc.)
-* [ ] Push notifications for severe weather alerts
-
----
 
 ## 🤝 Contributing
 
